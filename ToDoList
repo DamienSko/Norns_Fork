@@ -1,0 +1,17 @@
+Test Poc Complet Syst                   J+D      
+
+Commandes Composants Syst               D
+Production Syst                         D
+
+Dessiner boites                         S+D
+Commandes plexi / colles / Inserts...   S+D
+Production boites                       S+D
+
+Assemblage global                       D
+
+AUTRES taches importante                J
+    Documenter et re-déployer Norns Sidekick (brownser) / Orac (appli modulaire avec codes Native Instrument)
+    Allumage / éteignage à chaud Eko + Syst
+    Séquençage allumage + connections automatiques Eko + syst
+    read only ?
+    Latence kernel
